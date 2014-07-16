@@ -1,5 +1,5 @@
 var lorem  = require('../');
 
-lorem(200, function(err, result) {
-    console.log(result);
+lorem(10, function(err, str, unicode) {
+    console.log(str, unicode);
 })
