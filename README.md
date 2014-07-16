@@ -1,6 +1,11 @@
 A unicode string generator. Ah...
 
 # Usage
+
+```
+npm intall unicode-lorem
+```
+
 ```js
 var lorem  = require('unicode-lorem');
 lorem(LENGTH, CALLBACK);
