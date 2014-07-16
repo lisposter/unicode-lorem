@@ -1,9 +1,5 @@
-A unicode string generator. Ah...
+var lorem  = require('../');
 
-# Example
-
-```js
 lorem(200, function(err, result) {
     console.log(result);
 })
-```
