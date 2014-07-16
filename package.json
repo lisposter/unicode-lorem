@@ -1,0 +1,24 @@
+{
+  "name": "unicode-lorem",
+  "version": "0.0.1",
+  "description": "a node module to output a ramdom unicode string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lisposter/unicode-lorem.git"
+  },
+  "keywords": [
+    "lorem",
+    "string",
+    "unicode"
+  ],
+  "author": "Leigh Zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lisposter/unicode-lorem/issues"
+  },
+  "homepage": "https://github.com/lisposter/unicode-lorem"
+}

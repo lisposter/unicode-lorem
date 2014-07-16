@@ -1,0 +1,1 @@
+a node module to output a ramdom unicode string
