@@ -1,6 +1,6 @@
 {
   "name": "unicode-lorem",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a node module to output a ramdom unicode string",
   "main": "index.js",
   "scripts": {

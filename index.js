@@ -1,6 +1,4 @@
 function lorem(length, callback) {
-    var done = arguments[arguments.length - 1];
-    if(done instanceof Function !== true) return new Error('No callback fn');
 
     var result = {
         str: [],
@@ -25,6 +23,8 @@ function lorem(length, callback) {
         }; 
     }
 
+    var done = arguments[arguments.length - 1];
+    if(done instanceof Function !== true) return result;
     callback(null, result.str, result.unicode);
 }
 

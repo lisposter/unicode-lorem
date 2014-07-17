@@ -3,13 +3,18 @@ A unicode string generator. Ah...
 # Usage
 
 ```
-npm intall unicode-lorem
+npm install unicode-lorem
 ```
 
 ```js
 var lorem  = require('unicode-lorem');
 lorem(LENGTH, CALLBACK);
 
+```
+
+or
+```js
+console.log(lorem(10));
 ```
 
 # Example
