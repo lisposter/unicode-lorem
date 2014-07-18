@@ -16,6 +16,8 @@ or
 ```js
 console.log(lorem(10));
 ```
+__ NOTE: Actually, there is no async logic in it, but, I leave the callback, and if somebody like to write the callback. __
+__ Just for fun. LOL __
 
 # Example
 
